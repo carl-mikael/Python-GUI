@@ -1,0 +1,16 @@
+Apple 10 2
+Banana 5 110
+Dream 10000 0
+Transformer 150 356
+Couch 1000 20
+Pillow 30 427
+Book 20 866
+Socks 5 481
+Lego 200 88
+Tv 1000 275
+Computer 1000 290
+Candy 5 402
+Elephant 10000 76
+Coffee 30 99993
+Big_Ice_Cube 1 99964
+Brödrost 399 0
